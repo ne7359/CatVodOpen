@@ -10,14 +10,67 @@ export default {
     },
     alist: [
         {
-            name: '🐉神族九帝',
-            server: 'https://alist.shenzjd.com',
+            name: '🐉小雅',
+            server: 'http://ali.s6u.top:5678',
         },
         {
             name: '💢repl',
             server: 'https://ali.liucn.repl.co',
         },
     ],
+    wogg: {
+        url: 'https://wogg.xyz/',
+    },
+xiaoya: {
+        url: 'http://ali.s6u.top:7654/vod1/'
+    },
+    ali: {
+        token: 'acf98dafc0304c41ab2fa4aa01148c71',
+        token280: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJjMjQ1NWZmMDkyYWM0NmI1OGM1Yzc2ZWMyNTcyZGJhMCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzE3NjE3NTk5LCJpYXQiOjE3MDk4NDE1OTksImp0aSI6IjNmMjZjZmQwODYyMzRkOTg5N2JjMTA5M2U2ZTQ3MGE3In0.RdDAiNNEEe1n1migWoz10J4Yu8EGIfo3cZ8ZoEGD8g9ZfnEr81mcNZb9Ixh63kFT-mLqQipwBYLCuM0YrFboCw',
+    },
+    quark: {
+        cookie: 'xxxx'
+    },
+    live:
+{url: 'https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt'},
+    tudou: {
+        url: 'https://aliz.lvdoui.top',
+    },
+    wobg: {
+        url: 'https://wobge.run.goorm.io',
+    },
+
+    hhm3u8: {
+        url: 'https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/',
+        categories: ['动作片', '爱情片', '喜剧片', '科幻片', '恐怖片', '剧情片', '战争片', '灾难片', '悬疑片', '犯罪片', '奇幻片', '短剧', '内地剧', '欧美剧', '香港剧', '韩剧', '日剧', '马泰剧', '中国动漫', '日本动漫', '欧美动漫', '欧美动漫', '大陆综艺', '港台综艺', '日韩综艺', '欧美综艺', '记录片']
+    },
+    lzm3u8: {
+        url: 'https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/',
+        categories: ['动作片', '爱情片', '喜剧片', '科幻片', '恐怖片', '剧情片', '战争片', '短剧', '国产剧', '欧美剧', '香港剧', '韩国剧', '日本剧', '台湾剧', '海外剧', '泰国剧', '国产动漫', '日韩动漫', '欧美动漫', '港台动漫', '海外动漫', '大陆综艺', '港台综艺', '日韩综艺', '欧美综艺', '记录片', '足球', '篮球', '网球', '斯诺克']
+    },
+    subm3u8: {
+        url: 'https://subocaiji.com/api.php/provide/vod/from/subm3u8/',
+        categories: ['动作片', '爱情片', '喜剧片', '科幻片', '恐怖片', '剧情片', '战争片', '动漫电影', '短剧', '大陆剧', '美剧', '港澳剧', '韩剧', '日剧', '台湾剧', '泰剧', '中国动漫', '日本动漫', '欧美动漫', '综艺', '纪录片']
+    },
+    hnm3u8: {
+        url: 'https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/',
+        categories: ['动作片', '爱情片', '喜剧片', '科幻片', '恐怖片', '剧情片', '战争片', '动漫电影', '短剧', '国产剧', '欧美剧', '港澳剧', '韩剧', '日剧', '台湾剧', '泰剧', '动漫', '综艺', '纪录片', '体育赛事']
+    },
+    xlm3u8: {
+        url: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/',
+        categories: ['动作片', '爱情片', '喜剧片', '科幻片', '恐怖片', '剧情片', '战争片', '动漫电影', '短剧', '大陆剧', '欧美剧', '港澳剧', '韩剧', '日剧', '台湾剧', '泰剧', '动漫', '综艺', '纪录片', '体育']
+    },
+    nangua: {
+        url: 'http://ys.changmengyun.com',
+    },
+    clm3u8: {
+        url: 'https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8',
+        categories: ['国产传媒', '国产自拍', '女优合集', '中文字幕', '亚洲无码', '亚洲有码', '国产探花', '人妻熟女', '强奸乱伦', '网曝门事件', '绿帽淫妻', '欧美情色', '动漫卡通', '美女主播', '三级伦理', '人妻熟女', 'AV解说', '国产乱伦'],
+    },
+    ysche: {
+        url: 'https://www.weixine.link',
+    },
+
     color: [
         {
             light: {
