@@ -38,6 +38,7 @@ async function request(reqUrl, postData, agentSp, get) {
     });
 
     let content = res.data;
+    
     // console.log(content);
     if (typeof content === 'string') {
         var key = CryptoJS.enc.Utf8.parse('IjhHsCB2B5^#%0Ag');
@@ -57,7 +58,7 @@ async function init(inReq, _outResp) {
     if (!device.id) {
         device = randDeviceWithId(33);
         device.id = device.id.toLowerCase();
-        device.ua = 'okhttp/4.1.0';
+        device.ua = 'okhttp/3.14.9';
         await inReq.server.db.push(deviceKey, device);
     }
     return {};
