@@ -17,6 +17,7 @@ async function request(reqUrl) {
 }
 
 // ali token 相关配置放在 index.config.js
+/*
 ali: {
     token: '',
     token280: '',
@@ -24,7 +25,7 @@ ali: {
 wogg: {
     url: 'https://www.wogg.net/',
 },
-
+*/
 async function init(inReq, _outResp) {
     url = inReq.server.config.wogg.url;
     await Ali.initAli(inReq.server.db, inReq.server.config.ali);
