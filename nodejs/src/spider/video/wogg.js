@@ -17,11 +17,10 @@ async function request(reqUrl) {
 }
 
 // ali token 相关配置放在 index.config.js
-const aliConfig = {
-    token: '4d0b321cd480421f95bff34bf03e5d15',
-    token280: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJhN2NkODk0NTUwYzY0ZGI1ODA5OGYwN2FlYzM2YzMyYSIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzQyNjEzNjExLCJpYXQiOjE3MzQ4Mzc2MTEsImp0aSI6IjkyNzBjYmVkNGMwYzRiNDBiMjg2ZmJlNTE3ZmJlMmJlIn0.mbL0crOqC2N640kt6fbm7lbjKmRaJ6m7H6-rZdyFS08gUqmW1Obombk7mTbu5JWRYSYYO-P5xzVpYdeSOOkZkQ',
-};
-
+ali: {
+    token: '',
+    token280: '',
+},
 wogg: {
     url: 'https://www.wogg.net/',
 },
